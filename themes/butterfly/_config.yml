@@ -46,7 +46,8 @@ favicon: /img/favicon.png
 
 # Avatar (頭像)
 avatar:
-  img: https://cdn.jsdelivr.net/gh/youyashuai/pic@main/img/202312252245469.webp
+  img: https://cdn.jsdelivr.net/gh/youyashuai/pic@main/img/202312281840116.webp
+  # https://cdn.jsdelivr.net/gh/youyashuai/pic@main/img/202312252245469.webp
   effect: false
 
 # Disable all banner image
@@ -159,8 +160,8 @@ toc:
 
 post_copyright:
   enable: true
-  decode: false
-  author_href:
+  decode: true
+  author_href: https://vercel.cloudns.org/
   license: CC BY-NC-SA 4.0
   license_url: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
@@ -212,7 +213,7 @@ footer:
   owner:
     enable: true
     since: 2020
-  custom_text:
+  custom_text: https://vercel.cloudns.org/
   copyright: true # Copyright of theme and framework
 
 # aside (側邊欄)
