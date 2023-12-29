@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>Git配置Http(s)代理</title>
+      <link href="/2023/12/29/Git%E9%85%8D%E7%BD%AEHttp-s-%E4%BB%A3%E7%90%86/"/>
+      <url>/2023/12/29/Git%E9%85%8D%E7%BD%AEHttp-s-%E4%BB%A3%E7%90%86/</url>
+      
+        <content type="html"><![CDATA[<p>在某些情况下需要添加Git代理，公司仅提供pac代理文件，主要作用于网络层中的应用层，对Git难以奏效</p><p>pac文件为js文件，可进行反编译来获得Git所需的http(s)代理，<a href="https://www.vercel.cloudns.org/2023/12/29/PAC%E6%8F%90%E5%8F%96http(s)%E4%BB%A3%E7%90%86%E5%9C%B0%E5%9D%80/">PAC提取http(https)代理地址</a></p><h5 id="添加Git-代理"><a href="#添加Git-代理" class="headerlink" title="添加Git 代理"></a>添加Git 代理</h5><p>Bash环境下，输入以下命令：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">git config --global http.proxy &quot;http://agent.xxxx.com:8888&quot;</span><br><span class="line">git config --global https.proxy &quot;https://agent.xxxx.com:8888&quot;</span><br></pre></td></tr></table></figure><p>Tips：<a href="http://agent.xxxx.com:8888/">http://agent.xxxx.com:8888</a> 替换为自己的proxy</p><h5 id="删除Git-代理"><a href="#删除Git-代理" class="headerlink" title="删除Git 代理"></a>删除Git 代理</h5><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">git config --global --unset http.proxy</span><br><span class="line">git config --global --unset https.proxy</span><br></pre></td></tr></table></figure><h5 id="查看Git-代理状态"><a href="#查看Git-代理状态" class="headerlink" title="查看Git 代理状态"></a>查看Git 代理状态</h5><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git config --global --get https.proxy</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>PAC提取http(https)代理地址</title>
       <link href="/2023/12/29/PAC%E6%8F%90%E5%8F%96http(s)%E4%BB%A3%E7%90%86%E5%9C%B0%E5%9D%80/"/>
       <url>/2023/12/29/PAC%E6%8F%90%E5%8F%96http(s)%E4%BB%A3%E7%90%86%E5%9C%B0%E5%9D%80/</url>
