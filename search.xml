@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>PAC提取http(https)代理地址</title>
+      <link href="/2023/12/29/PAC%E6%8F%90%E5%8F%96http(s)%E4%BB%A3%E7%90%86%E5%9C%B0%E5%9D%80/"/>
+      <url>/2023/12/29/PAC%E6%8F%90%E5%8F%96http(s)%E4%BB%A3%E7%90%86%E5%9C%B0%E5%9D%80/</url>
+      
+        <content type="html"><![CDATA[<p>原理：pac文件是javascript函数，通过插件Proxy switchy 可查看修改后的编码段；</p><p>若加密，则可通过开发者工具，在控制台Console中键入decodeURI()反编译解密真实http(s) proxy</p><p><img src="https://cdn.jsdelivr.net/gh/youyashuai/pic@main/img/202312291731130.png" alt="图片alt" title="图片title"></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hexo在多台电脑设备同步提交更新github_pages博客</title>
       <link href="/2023/12/28/Hexo%E5%9C%A8%E5%A4%9A%E5%8F%B0%E7%94%B5%E8%84%91%E8%AE%BE%E5%A4%87%E5%90%8C%E6%AD%A5%E6%8F%90%E4%BA%A4%E6%9B%B4%E6%96%B0github-pages%E5%8D%9A%E5%AE%A2/"/>
       <url>/2023/12/28/Hexo%E5%9C%A8%E5%A4%9A%E5%8F%B0%E7%94%B5%E8%84%91%E8%AE%BE%E5%A4%87%E5%90%8C%E6%AD%A5%E6%8F%90%E4%BA%A4%E6%9B%B4%E6%96%B0github-pages%E5%8D%9A%E5%AE%A2/</url>
