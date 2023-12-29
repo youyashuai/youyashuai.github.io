@@ -16,6 +16,7 @@ keywords: "Hexo,教程,Butterfly,Git,Github,npm"
 description:
 top_img:
 cover: https://cdn.jsdelivr.net/gh/youyashuai/pic@main/img/202312281721894.png
+copyright_url: 
 ---
 
 本文记录利用GitHub Pages搭建Hexo静态博客记录，主要面向弱CODE基础同学

@@ -4,6 +4,7 @@ date: 2023-12-28 22:06:22
 tags:
 top_img:
 cover: https://cdn.jsdelivr.net/gh/youyashuai/pic@main/img/202312282306157.webp
+copyright_url: 
 ---
 
 本文采用主流解决方案：创建git分支实现多设备Hexo项目的同步与更新
