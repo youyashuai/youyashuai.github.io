@@ -4,6 +4,45 @@
   
     
     <entry>
+      <title>TVBox影视获取夸克及其他网盘cookies</title>
+      <link href="/2024/01/11/TVBox%E5%BD%B1%E8%A7%86%E8%8E%B7%E5%8F%96%E5%A4%B8%E5%85%8B%E5%8F%8A%E5%85%B6%E4%BB%96%E7%BD%91%E7%9B%98cookies/"/>
+      <url>/2024/01/11/TVBox%E5%BD%B1%E8%A7%86%E8%8E%B7%E5%8F%96%E5%A4%B8%E5%85%8B%E5%8F%8A%E5%85%B6%E4%BB%96%E7%BD%91%E7%9B%98cookies/</url>
+      
+        <content type="html"><![CDATA[<p>夸克网盘cookies获取<br>浏览器开启审查元素，F5刷新找到 sort开头链接，找到token复制<br><img src="https://cdn.jsdelivr.net/gh/youyashuai/pic@main/img/202401161626088.png"><br>下载本地安装包<br>修改路径 lib-tokenm.json<br>quark_cookies: “”</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>微信视频号下载工具及方法</title>
+      <link href="/2024/01/11/%E5%BE%AE%E4%BF%A1%E8%A7%86%E9%A2%91%E5%8F%B7%E4%B8%8B%E8%BD%BD%E5%B7%A5%E5%85%B7%E5%8F%8A%E6%96%B9%E6%B3%95/"/>
+      <url>/2024/01/11/%E5%BE%AE%E4%BF%A1%E8%A7%86%E9%A2%91%E5%8F%B7%E4%B8%8B%E8%BD%BD%E5%B7%A5%E5%85%B7%E5%8F%8A%E6%96%B9%E6%B3%95/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Pandora-next获取ChatGpt token</title>
+      <link href="/2024/01/05/Pandora-next%E8%8E%B7%E5%8F%96ChatGpt-token/"/>
+      <url>/2024/01/05/Pandora-next%E8%8E%B7%E5%8F%96ChatGpt-token/</url>
+      
+        <content type="html"><![CDATA[<p>项目地址：<a href="https://bulianglin.com/g/aHR0cHM6Ly9naXRodWIuY29tL3BhbmRvcmEtbmV4dC9kZXBsb3k">https://github.com/pandora-next/deploy</a><br>项目文档：<a href="https://bulianglin.com/g/aHR0cHM6Ly9mYWtlb3Blbi5vcmcvUGFuZG9yYU5leHQ">https://fakeopen.org/PandoraNext</a><br>官方获取Access Token和Session Token：<a href="https://bulianglin.com/g/aHR0cHM6Ly9jaGF0Lm9wZW5haS5jb20vYXBpL2F1dGgvc2Vzc2lvbg">https://chat.openai.com/api/auth/session</a><br>获取Access Token和Session Token：<a href="https://bulianglin.com/g/aHR0cHM6Ly9haS5mYWtlb3Blbi5jb20vYXV0aA">https://ai.fakeopen.com/auth</a><br>生成Share Token：<a href="https://bulianglin.com/g/aHR0cHM6Ly9haS5mYWtlb3Blbi5jb20vdG9rZW4">https://ai.fakeopen.com/token</a><br>生成Pool Token：<a href="https://bulianglin.com/g/aHR0cHM6Ly9haS5mYWtlb3Blbi5jb20vcG9vbA">https://ai.fakeopen.com/pool</a><br>第三方WebUI：<a href="https://bulianglin.com/g/aHR0cHM6Ly9naXRodWIuY29tL1lpZGFkYWEvQ2hhdEdQVC1OZXh0LVdlYg">https://github.com/Yidadaa/ChatGPT-Next-Web</a></p><h2 id="使用Web模式"><a href="#使用Web模式" class="headerlink" title="使用Web模式"></a>使用Web模式</h2><p>免费账号共享池：<a href="https://bulianglin.com/g/aHR0cHM6Ly9iYWlwaWFvLmlvL2NoYXRncHQ">https://baipiao.io/chatgpt</a><br>官方演示地址一：<a href="https://bulianglin.com/g/aHR0cHM6Ly9jaGF0Lm9haWZyZWUuY29t">https://chat.oaifree.com</a><br>官方演示地址二：<a href="https://bulianglin.com/g/aHR0cHM6Ly9jaGF0MS56aGlsZS5pbw">https://chat1.zhile.io</a><br>别人搭建的网址：<a href="https://bulianglin.com/g/aHR0cHM6Ly9mb2ZhLmluZm8vcmVzdWx0P3FiYXNlNjQ9WW05a2VUMGlRMjl1ZEdsdWRXVWdkMmwwYUNCQlkyTmxjM01nVkc5clpXNGlJQ1ltSUhScGRHeGxQU0pRWVc1a2IzSmhUbVY0ZENJZ0ppWWdZMjkxYm5SeWVUMGlRMDRp">https://fofa.info/result?qbase64=Ym9keT0iQ29udGludWUgd2l0aCBBY2Nlc3MgVG9rZW4iICYmIHRpdGxlPSJQYW5kb3JhTmV4dCIgJiYgY291bnRyeT0iQ04i</a></p><p>反向代理Pandora：<a href="https://bulianglin.com/g/aHR0cHM6Ly9jbG91ZGZsYXJlLmNvbQ">https://cloudflare.com</a><br><a href="https://bulianglin.com/usr/uploads/2023/12/2305427416.zip">RProxy.zip</a></p><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">export</span> <span class="keyword">default</span> &#123;</span><br><span class="line">  <span class="keyword">async</span> <span class="title function_">fetch</span>(<span class="params">request, env</span>) &#123;</span><br><span class="line">    <span class="keyword">let</span> url = <span class="keyword">new</span> <span class="title function_">URL</span>(request.<span class="property">url</span>);</span><br><span class="line">    url.<span class="property">hostname</span> = <span class="string">&#x27;chat.zhile.io&#x27;</span></span><br><span class="line">    <span class="keyword">return</span> <span class="title function_">fetch</span>(<span class="keyword">new</span> <span class="title class_">Request</span>(url, request));</span><br><span class="line">  &#125;,</span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure><h2 id="使用Proxy模式（自己搭建）"><a href="#使用Proxy模式（自己搭建）" class="headerlink" title="使用Proxy模式（自己搭建）"></a>使用Proxy模式（自己搭建）</h2><p>license_id（根据github账号年限获取使用额度）：<a href="https://bulianglin.com/g/aHR0cHM6Ly9kYXNoLnBhbmRvcmFuZXh0LmNvbQ">https://dash.pandoranext.com</a></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">#下载pandora</span></span><br><span class="line">https://github.com/pandora-next/deploy/releases</span><br><span class="line"><span class="comment">#后台运行pandora</span></span><br><span class="line"><span class="built_in">nohup</span> ./PandoraNext &gt; pandora.log 2&gt;&amp;1 &amp;</span><br><span class="line"></span><br><span class="line"><span class="comment">#下载pandora-get-token.py</span></span><br><span class="line">https://raw.githubusercontent.com/bulianglin/demo/main/pandora-get-token.py</span><br><span class="line"><span class="comment">#后台运行载pandora-get-token.py</span></span><br><span class="line"><span class="built_in">nohup</span> python3 -u pandora-get-token.py &gt; gettoken.log 2&gt;&amp;1 &amp;</span><br></pre></td></tr></table></figure><p><strong>Bash</strong></p><p>共享Pool Token：<code>pk-this-is-a-real-free-pool-token-for-everyone</code></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>利用Cloudflare创建无限邮箱</title>
       <link href="/2024/01/05/%E5%88%A9%E7%94%A8Cloudflare%E5%88%9B%E5%BB%BA%E6%97%A0%E9%99%90%E9%82%AE%E7%AE%B1/"/>
       <url>/2024/01/05/%E5%88%A9%E7%94%A8Cloudflare%E5%88%9B%E5%BB%BA%E6%97%A0%E9%99%90%E9%82%AE%E7%AE%B1/</url>
