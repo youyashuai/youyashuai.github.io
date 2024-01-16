@@ -2,7 +2,7 @@
 title: Pandora-next获取ChatGpt token
 date: 2024-01-05 17:06:52
 tags:
-cover:
+cover: https://cdn.jsdelivr.net/gh/youyashuai/pic@main/img/202401161718848.webp
 ---
 
 项目地址：[https://github.com/pandora-next/deploy](https://bulianglin.com/g/aHR0cHM6Ly9naXRodWIuY29tL3BhbmRvcmEtbmV4dC9kZXBsb3k)
